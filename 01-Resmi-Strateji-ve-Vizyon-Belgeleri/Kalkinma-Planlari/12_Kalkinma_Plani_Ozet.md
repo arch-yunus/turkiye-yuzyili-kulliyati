@@ -1,12 +1,17 @@
-﻿# 12. KalkÄ±nma PlanÄ± (2024-2028) Ã–zeti
+﻿# 12. Kalkınma Planı (2024-2028) Özeti
 
-12. KalkÄ±nma PlanÄ±, "TÃ¼rkiye YÃ¼zyÄ±lÄ±" vizyonunun ilk makro uygulama planÄ±dÄ±r. Bu plan, Ã¶nÃ¼mÃ¼zdeki beÅŸ yÄ±l iÃ§in yol haritasÄ±nÄ± Ã§izer.
+12. Kalkınma Planı, Türkiye Yüzyılı vizyonunun ilk beş yıllık yol haritasını çizen temel politika belgesidir.
 
-## Temel Odak AlanlarÄ±
-1.  **Nitelikli Ä°nsan, GÃ¼Ã§lÃ¼ Toplum:** EÄŸitim ve saÄŸlÄ±k hizmetlerinin kalitesinin artÄ±rÄ±lmasÄ±.
-2.  **Ä°stikrarlÄ± YÃ¼ksek BÃ¼yÃ¼me:** Enflasyonla mÃ¼cadele, yatÄ±rÄ±m ve ihracat odaklÄ± bÃ¼yÃ¼me modeli.
-3.  **RekabetÃ§i Ãœretim ve Verimlilik:** Dijital ve yeÅŸil dÃ¶nÃ¼ÅŸÃ¼mÃ¼n sanayiye entegrasyonu.
-4.  **Afetlere DirenÃ§li YaÅŸam AlanlarÄ±:** Kentsel dÃ¶nÃ¼ÅŸÃ¼m ve Ã§evresel sÃ¼rdÃ¼rÃ¼lebilirlik.
+## Ana Eksenler
+1.  **İstikrarlı Büyüme, Güçlü Ekonomi:** Enflasyonun kalıcı olarak düşürülmesi ve cari işlemler dengesinin iyileştirilmesi.
+2.  **Yeşil ve Dijital Dönüşüm Odağında Rekabetçi Üretim:** Sanayide verimliliğin artırılması ve emisyon azaltım hedefleri.
+3.  **Nitelikli İnsan, Güçlü Aile, Sağlıklı Toplum:** Eğitim sisteminin işgücü piyasasıyla uyumu ve sosyal yardım sisteminin etkinleştirilmesi.
+4.  **Afetlere Dirençli Yaşam Alanları, Sürdürülebilir Çevre:** Deprem riski başta olmak üzere afet yönetimi ve kentsel dönüşüm.
+
+## Temel Göstergeler ve Hedefler
+-   GSYH artışı ve kişi başı gelir hedefleri.
+-   İhracat odaklı büyüme stratejisi.
+-   İşsizlik oranının kademeli olarak düşürülmesi.
 
 ---
-*Kaynak: T.C. Strateji ve BÃ¼tÃ§e BaÅŸkanlÄ±ÄŸÄ±*
+*Resmi metnin tamamı ve sektörel analizler bu bölümde detaylandırılacaktır.*

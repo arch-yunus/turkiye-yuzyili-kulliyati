@@ -1,12 +1,12 @@
-﻿# Ekonomi-Politik Okumalar
+﻿# Ekonomi Politik Okumalar
 
-Bu bÃ¶lÃ¼m, TÃ¼rkiye YÃ¼zyÄ±lÄ± vizyonunun ekonomi-politik Ã§erÃ§evesini ve "Ãœretimin YÃ¼zyÄ±lÄ±", "VerimliliÄŸin YÃ¼zyÄ±lÄ±" gibi hedeflerin ekonomik karÅŸÄ±lÄ±klarÄ±nÄ± inceler.
+Türkiye Yüzyılı'nın ekonomik modeli, kalkınma stratejileri ve küresel ekonomi içindeki yeri.
 
-## 1. KalkÄ±nma Modeli
-TÃ¼rkiye'nin orta ve uzun vadeli kalkÄ±nma stratejileri, kÃ¼resel tedarik zincirindeki konumu ve sÃ¼rdÃ¼rÃ¼lebilir bÃ¼yÃ¼me hedefleri.
-
-## 2. Ekonomi ve GÃ¼Ã§ Denklemi
-Ekonomik baÄŸÄ±msÄ±zlÄ±ÄŸÄ±n siyasi ve stratejik gÃ¼Ã§le iliÅŸkisi. Yerel Ã¼retimin artÄ±rÄ±lmasÄ± ve cari dengenin iyileÅŸtirilmesi stratejileri.
+## Ana Temalar
+- **Yatırım, İstihdam, Üretim, İhracat:** Yeni ekonomi modelinin temel sütunları.
+- **Finansal Egemenlik:** Yerli ödeme sistemleri ve finans merkezi projeleri.
+- **Bölgesel Kalkınma:** Şehir bazlı kalkınma modelleri ve teşvik politikaları.
+- **Küresel Tedarik Zinciri:** Türkiye'nin lojistik ve üretim üssü olma potansiyeli.
 
 ---
-*Ä°Ã§erik araÅŸtÄ±rmasÄ± devam ediyor. Analizler eklenecektir.*
+*İktisadi analizler ve sektörel rapor özetleri burada toplanacaktır.*

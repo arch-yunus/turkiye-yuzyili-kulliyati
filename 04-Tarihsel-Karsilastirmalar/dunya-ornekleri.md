@@ -1,13 +1,15 @@
-﻿# DÃ¼nya Ã–rnekleri
+﻿# Dünya Örnekleri
 
-Bu bÃ¶lÃ¼mde, diÄŸer Ã¼lkelerin vizyon belgeleri (Ã¶rn. Suudi Arabistan Vizyon 2030, Ã‡in 2049, BirleÅŸik Arap Emirlikleri 2071) ile TÃ¼rkiye YÃ¼zyÄ±lÄ± vizyonu arasÄ±ndaki benzerlikler ve farklÄ±lÄ±klar incelenir.
+Türkiye Yüzyılı vizyonunun diğer ülkelerin gelecek projeksiyonları ile karşılaştırmalı analizi.
 
-## 1. KÃ¼resel Vizyon YarÄ±ÅŸÄ±
-21. yÃ¼zyÄ±lda Ã¼lkelerin kendi gelecek projeksiyonlarÄ±nÄ± kurumsal ve dijital birer markaya dÃ¶nÃ¼ÅŸtÃ¼rme eÄŸilimleri.
+## Karşılaştırma Kriterleri
+- **Stratejik Hedefler:** (Örn: Çin 2049, Suudi Vizyon 2030, AB Yeşil Mutabakat).
+- **Teknolojik Atılım:** Dijital dönüşüm ve yapay zeka stratejileri.
+- **Kalkınma Modelleri:** Sürdürülebilirlik ve sosyal refah yaklaşımları.
 
-## 2. KarÅŸÄ±laÅŸtÄ±rmalÄ± Analiz
-*   **Stratejik Odak:** Benzer milli teknoloji hamleleri ve sÃ¼rdÃ¼rÃ¼lebilirlik hedefleri.
-*   **KÃ¼resel KonumlandÄ±rma:** BÃ¶lgesel gÃ¼Ã§ten 360 derece gÃ¼Ã§ olma yolundaki iddialarÄ±n kÄ±yasÄ±.
+## Karşılaştırmalı Analiz
+*   **Stratejik Odak:** Benzer milli teknoloji hamleleri ve sürdürülebilirlik hedefleri.
+*   **Küresel Konumlandırma:** Bölgesel güçten **360 derece güç** olma yolundaki iddiaların kıyası.
 
 ---
-*Ä°Ã§erik araÅŸtÄ±rmasÄ± devam ediyor. Scan completion status for the final report. Analizler eklenecektir.*
+*İçerik araştırması devam ediyor. Analizler eklenecektir.*

@@ -1,31 +1,26 @@
-﻿# DavranÄ±ÅŸ KurallarÄ± (CODE OF_CONDUCT)
+﻿# Davranış Kuralları
 
-## TaahhÃ¼dÃ¼mÃ¼z
-Bu projenin yÃ¼rÃ¼tÃ¼cÃ¼leri ve katÄ±lÄ±mcÄ±larÄ± olarak; Ã¼yeliÄŸi, katÄ±lÄ±mÄ± ve iÅŸ birliÄŸini tacizden uzak tutacaÄŸÄ±mÄ±za sÃ¶z veriyoruz. YaÅŸ, vÃ¼cut Ã¶lÃ§Ã¼sÃ¼, engel durumu, etnik kÃ¶ken, cinsiyet kimliÄŸi ve ifadesi, deneyim seviyesi, eÄŸitim, sosyo-ekonomik durum, milliyet, kiÅŸisel gÃ¶rÃ¼nÃ¼m, Ä±rk, din veya cinsel kimlik ve yÃ¶nelim ne olursa olsun herkes iÃ§in hoÅŸgÃ¶rÃ¼lÃ¼ ve olumlu bir deneyim sunmayÄ± taahhÃ¼t ediyoruz.
+## Taahhüdümüz
 
-## StandartlarÄ±mÄ±z
-Olumlu bir ortam oluÅŸturmaya katkÄ±da bulunan davranÄ±ÅŸ Ã¶rnekleri:
-*   KarÅŸÄ±lÄ±klÄ± saygÄ± ve nezaket Ã§erÃ§evesinde iletiÅŸim kurmak.
-*   FarklÄ± bakÄ±ÅŸ aÃ§Ä±larÄ±na ve deneyimlere aÃ§Ä±k olmak.
-*   YapÄ±cÄ± eleÅŸtirileri olgunlukla kabul etmek.
-*   TopluluÄŸun yararÄ±na olacak ÅŸekilde davranmak.
-*   DiÄŸer topluluk Ã¼yelerine karÅŸÄ± empati gÃ¶stermek.
+Açık ve davetkar bir ortam sağlamak amacıyla, biz katılımcılar ve yürütücüler olarak; yaş, vücut ölçüsü, engel durumu, etnik köken, cinsiyet kimliği ve ifadesi, deneyim düzeyi, eğitim, sosyo-ekonomik durum, milliyet veya dini inançtan bağımsız olarak projemize ve topluluğumuza katkıda bulunan herkes için tacizden uzak bir deneyim sunmayı taahhüt ederiz.
 
-Kabul edilemez davranÄ±ÅŸ Ã¶rnekleri:
-*   CinselleÅŸtirilmiÅŸ dil veya gÃ¶rsellerin kullanÄ±mÄ± ve istenmeyen her tÃ¼rlÃ¼ cinsel yaklaÅŸÄ±m.
-*   AÅŸaÄŸÄ±layÄ±cÄ±, hakaret iÃ§eren veya kÄ±ÅŸkÄ±rtÄ±cÄ± yorumlar ile kiÅŸisel veya siyasi saldÄ±rÄ±lar.
-*   Topluluk Ã¼yelerini rahatsÄ±z edici veya taciz edici her tÃ¼rlÃ¼ eylem.
-*   BaÅŸkalarÄ±nÄ±n aÃ§Ä±k izni olmadan Ã¶zel bilgilerini yayÄ±nlamak.
-*   Profesyonel bir ortamda uygunsuz sayÄ±labilecek diÄŸer her tÃ¼rlÃ¼ davranÄ±ÅŸ.
+## Standartlarımız
 
-## SorumluluklarÄ±mÄ±z
-Proje yÃ¶neticileri, kabul edilebilir davranÄ±ÅŸ standartlarÄ±nÄ± netleÅŸtirmekten sorumludur ve uygunsuz davranÄ±ÅŸlara yanÄ±t olarak adil ve dÃ¼zeltici Ã¶nlemler alacaklardÄ±r.
+Olumlu bir ortam oluşturmaya yardımcı olan davranış örnekleri şunlardır:
 
-## Uygulama DurumlarÄ±
-Bu DavranÄ±ÅŸ KurallarÄ±, hem proje alanlarÄ± iÃ§erisinde hem de bir kiÅŸinin projeyi veya topluluÄŸunu temsil ettiÄŸi kamusal alanlarda geÃ§erlidir.
+-   Başkalarına karşı nazik ve saygılı olmak.
+-   Farklı görüşlere, deneyimlere ve bakış açılarına değer vermek.
+-   Yapıcı eleştirileri kabul etmek.
+-   Topluluğun çıkarlarına odaklanmak.
+-   Diğer topluluk üyelerine karşı empati göstermek.
 
-## Ä°hlallerin Bildirilmesi
-Taciz edici, ayrÄ±mcÄ± veya DavranÄ±ÅŸ KurallarÄ±na aykÄ±rÄ± bir durumla karÅŸÄ±laÅŸÄ±rsanÄ±z, lÃ¼tfen proje yÃ¶neticileriyle iletiÅŸime geÃ§in. TÃ¼m ÅŸikayetler incelenecek ve gizlilik Ã§erÃ§evesinde deÄŸerlendirilecektir.
+## Sorumluluklarımız
 
-## Lisans
-Bu DavranÄ±ÅŸ KurallarÄ± [Contributor Covenant](https://www.contributor-covenant.org), sÃ¼rÃ¼m 2.1'den uyarlanmÄ±ÅŸtÄ±r.
+Proje yöneticileri, kabul edilebilir davranış standartlarını netleştirmekten sorumludur ve uygunsuz davranışlara yanıt olarak adil ve tutarlı bir şekilde düzeltici önlemler alacaktır.
+
+## Kapsam
+
+Bu Davranış Kuralları, hem proje alanlarında hem de bir bireyin projeyi veya topluluğunu temsil ettiği kamusal alanlarda geçerlidir.
+
+---
+*Bu metin Contributor Covenant, sürüm 1.4'ten uyarlanmıştır.*

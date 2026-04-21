@@ -1,31 +1,31 @@
-# Davranış Kuralları (CODE OF_CONDUCT)
+﻿# DavranÄ±ÅŸ KurallarÄ± (CODE OF_CONDUCT)
 
-## Taahhüdümüz
-Bu projenin yürütücüleri ve katılımcıları olarak; üyeliği, katılımı ve iş birliğini tacizden uzak tutacağımıza söz veriyoruz. Yaş, vücut ölçüsü, engel durumu, etnik köken, cinsiyet kimliği ve ifadesi, deneyim seviyesi, eğitim, sosyo-ekonomik durum, milliyet, kişisel görünüm, ırk, din veya cinsel kimlik ve yönelim ne olursa olsun herkes için hoşgörülü ve olumlu bir deneyim sunmayı taahhüt ediyoruz.
+## TaahhÃ¼dÃ¼mÃ¼z
+Bu projenin yÃ¼rÃ¼tÃ¼cÃ¼leri ve katÄ±lÄ±mcÄ±larÄ± olarak; Ã¼yeliÄŸi, katÄ±lÄ±mÄ± ve iÅŸ birliÄŸini tacizden uzak tutacaÄŸÄ±mÄ±za sÃ¶z veriyoruz. YaÅŸ, vÃ¼cut Ã¶lÃ§Ã¼sÃ¼, engel durumu, etnik kÃ¶ken, cinsiyet kimliÄŸi ve ifadesi, deneyim seviyesi, eÄŸitim, sosyo-ekonomik durum, milliyet, kiÅŸisel gÃ¶rÃ¼nÃ¼m, Ä±rk, din veya cinsel kimlik ve yÃ¶nelim ne olursa olsun herkes iÃ§in hoÅŸgÃ¶rÃ¼lÃ¼ ve olumlu bir deneyim sunmayÄ± taahhÃ¼t ediyoruz.
 
-## Standartlarımız
-Olumlu bir ortam oluşturmaya katkıda bulunan davranış örnekleri:
-*   Karşılıklı saygı ve nezaket çerçevesinde iletişim kurmak.
-*   Farklı bakış açılarına ve deneyimlere açık olmak.
-*   Yapıcı eleştirileri olgunlukla kabul etmek.
-*   Topluluğun yararına olacak şekilde davranmak.
-*   Diğer topluluk üyelerine karşı empati göstermek.
+## StandartlarÄ±mÄ±z
+Olumlu bir ortam oluÅŸturmaya katkÄ±da bulunan davranÄ±ÅŸ Ã¶rnekleri:
+*   KarÅŸÄ±lÄ±klÄ± saygÄ± ve nezaket Ã§erÃ§evesinde iletiÅŸim kurmak.
+*   FarklÄ± bakÄ±ÅŸ aÃ§Ä±larÄ±na ve deneyimlere aÃ§Ä±k olmak.
+*   YapÄ±cÄ± eleÅŸtirileri olgunlukla kabul etmek.
+*   TopluluÄŸun yararÄ±na olacak ÅŸekilde davranmak.
+*   DiÄŸer topluluk Ã¼yelerine karÅŸÄ± empati gÃ¶stermek.
 
-Kabul edilemez davranış örnekleri:
-*   Cinselleştirilmiş dil veya görsellerin kullanımı ve istenmeyen her türlü cinsel yaklaşım.
-*   Aşağılayıcı, hakaret içeren veya kışkırtıcı yorumlar ile kişisel veya siyasi saldırılar.
-*   Topluluk üyelerini rahatsız edici veya taciz edici her türlü eylem.
-*   Başkalarının açık izni olmadan özel bilgilerini yayınlamak.
-*   Profesyonel bir ortamda uygunsuz sayılabilecek diğer her türlü davranış.
+Kabul edilemez davranÄ±ÅŸ Ã¶rnekleri:
+*   CinselleÅŸtirilmiÅŸ dil veya gÃ¶rsellerin kullanÄ±mÄ± ve istenmeyen her tÃ¼rlÃ¼ cinsel yaklaÅŸÄ±m.
+*   AÅŸaÄŸÄ±layÄ±cÄ±, hakaret iÃ§eren veya kÄ±ÅŸkÄ±rtÄ±cÄ± yorumlar ile kiÅŸisel veya siyasi saldÄ±rÄ±lar.
+*   Topluluk Ã¼yelerini rahatsÄ±z edici veya taciz edici her tÃ¼rlÃ¼ eylem.
+*   BaÅŸkalarÄ±nÄ±n aÃ§Ä±k izni olmadan Ã¶zel bilgilerini yayÄ±nlamak.
+*   Profesyonel bir ortamda uygunsuz sayÄ±labilecek diÄŸer her tÃ¼rlÃ¼ davranÄ±ÅŸ.
 
-## Sorumluluklarımız
-Proje yöneticileri, kabul edilebilir davranış standartlarını netleştirmekten sorumludur ve uygunsuz davranışlara yanıt olarak adil ve düzeltici önlemler alacaklardır.
+## SorumluluklarÄ±mÄ±z
+Proje yÃ¶neticileri, kabul edilebilir davranÄ±ÅŸ standartlarÄ±nÄ± netleÅŸtirmekten sorumludur ve uygunsuz davranÄ±ÅŸlara yanÄ±t olarak adil ve dÃ¼zeltici Ã¶nlemler alacaklardÄ±r.
 
-## Uygulama Durumları
-Bu Davranış Kuralları, hem proje alanları içerisinde hem de bir kişinin projeyi veya topluluğunu temsil ettiği kamusal alanlarda geçerlidir.
+## Uygulama DurumlarÄ±
+Bu DavranÄ±ÅŸ KurallarÄ±, hem proje alanlarÄ± iÃ§erisinde hem de bir kiÅŸinin projeyi veya topluluÄŸunu temsil ettiÄŸi kamusal alanlarda geÃ§erlidir.
 
-## İhlallerin Bildirilmesi
-Taciz edici, ayrımcı veya Davranış Kurallarına aykırı bir durumla karşılaşırsanız, lütfen proje yöneticileriyle iletişime geçin. Tüm şikayetler incelenecek ve gizlilik çerçevesinde değerlendirilecektir.
+## Ä°hlallerin Bildirilmesi
+Taciz edici, ayrÄ±mcÄ± veya DavranÄ±ÅŸ KurallarÄ±na aykÄ±rÄ± bir durumla karÅŸÄ±laÅŸÄ±rsanÄ±z, lÃ¼tfen proje yÃ¶neticileriyle iletiÅŸime geÃ§in. TÃ¼m ÅŸikayetler incelenecek ve gizlilik Ã§erÃ§evesinde deÄŸerlendirilecektir.
 
 ## Lisans
-Bu Davranış Kuralları [Contributor Covenant](https://www.contributor-covenant.org), sürüm 2.1'den uyarlanmıştır.
+Bu DavranÄ±ÅŸ KurallarÄ± [Contributor Covenant](https://www.contributor-covenant.org), sÃ¼rÃ¼m 2.1'den uyarlanmÄ±ÅŸtÄ±r.

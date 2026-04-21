@@ -1,12 +1,12 @@
-# Kimlik ve Aidiyet Çalışmaları
+﻿# Kimlik ve Aidiyet Ã‡alÄ±ÅŸmalarÄ±
 
-Bu dosya, Türkiye Yüzyılı vizyonu çerçevesinde "kimlik" ve "aidiyet" kavramlarının sosyolojik analizlerini içerir.
+Bu dosya, TÃ¼rkiye YÃ¼zyÄ±lÄ± vizyonu Ã§erÃ§evesinde "kimlik" ve "aidiyet" kavramlarÄ±nÄ±n sosyolojik analizlerini iÃ§erir.
 
 ## 1. Toplumsal Mutabakat ve Ortak Kimlik
-Türkiye Yüzyılı, farklı toplumsal kesimlerin ortak bir gelecek ülküsü etrafında kenetlenmesini hedefler. Bu bölüm, bu kenetlenme sürecinin sosyolojik dinamiklerini inceler.
+TÃ¼rkiye YÃ¼zyÄ±lÄ±, farklÄ± toplumsal kesimlerin ortak bir gelecek Ã¼lkÃ¼sÃ¼ etrafÄ±nda kenetlenmesini hedefler. Bu bÃ¶lÃ¼m, bu kenetlenme sÃ¼recinin sosyolojik dinamiklerini inceler.
 
-## 2. Aidiyetin İnşası
-Vatandaşlık bağı ötesinde, kültürel ve tarihsel kodlarla beslenen bir "Türkiye Cumhuriyeti Vatandaşlığı" bilincinin pekiştirilmesi süreçleri.
+## 2. Aidiyetin Ä°nÅŸasÄ±
+VatandaÅŸlÄ±k baÄŸÄ± Ã¶tesinde, kÃ¼ltÃ¼rel ve tarihsel kodlarla beslenen bir "TÃ¼rkiye Cumhuriyeti VatandaÅŸlÄ±ÄŸÄ±" bilincinin pekiÅŸtirilmesi sÃ¼reÃ§leri.
 
 ---
-*İçerik araştırması devam ediyor. Analizler eklenecektir.*
+*Ä°Ã§erik araÅŸtÄ±rmasÄ± devam ediyor. Analizler eklenecektir.*

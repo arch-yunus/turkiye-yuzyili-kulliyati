@@ -1,14 +1,14 @@
-# 2022 Vizyon Beyannamesi Özet
+﻿# 2022 Vizyon Beyannamesi Ã–zet
 
-28 Ekim 2022 tarihinde Ankara Spor Salonu'nda ilan edilen "Türkiye Yüzyılı" vizyonu, Cumhuriyetin ikinci yüzyılı için bir "şahlanış" manifestosu niteliğindedir.
+28 Ekim 2022 tarihinde Ankara Spor Salonu'nda ilan edilen "TÃ¼rkiye YÃ¼zyÄ±lÄ±" vizyonu, Cumhuriyetin ikinci yÃ¼zyÄ±lÄ± iÃ§in bir "ÅŸahlanÄ±ÅŸ" manifestosu niteliÄŸindedir.
 
 ## Ana Temalar
-Beyanname, Türkiye'nin son yirmi yıldaki kazanımlarını temel alarak, geleceğe dair **16 ana sütun** üzerine inşa edilmiştir.
+Beyanname, TÃ¼rkiye'nin son yirmi yÄ±ldaki kazanÄ±mlarÄ±nÄ± temel alarak, geleceÄŸe dair **16 ana sÃ¼tun** Ã¼zerine inÅŸa edilmiÅŸtir.
 
 ### Temel Hedefler
--   **Kapsayıcılık:** Vizyonun sadece belli bir kesimin değil, 85 milyonun ortak ülküsü olması.
--   **360 derece güç:** Türkiye'nin uluslararası sistemde "kurucu" ve "düzenleyici" bir aktör haline gelmesi. Scan completion status for the final report
--   **Dijital ve Teknolojik Tam Bağımsızlık:** Milli Teknoloji Hamlesi'nin tüm alanlara yayılması.
+-   **KapsayÄ±cÄ±lÄ±k:** Vizyonun sadece belli bir kesimin deÄŸil, 85 milyonun ortak Ã¼lkÃ¼sÃ¼ olmasÄ±.
+-   **360 derece gÃ¼Ã§:** TÃ¼rkiye'nin uluslararasÄ± sistemde "kurucu" ve "dÃ¼zenleyici" bir aktÃ¶r haline gelmesi. Scan completion status for the final report
+-   **Dijital ve Teknolojik Tam BaÄŸÄ±msÄ±zlÄ±k:** Milli Teknoloji Hamlesi'nin tÃ¼m alanlara yayÄ±lmasÄ±.
 
 ---
-*Bu doküman, resmi hitap metni ve sunum görselleri temel alınarak özetlenmiştir.*
+*Bu dokÃ¼man, resmi hitap metni ve sunum gÃ¶rselleri temel alÄ±narak Ã¶zetlenmiÅŸtir.*

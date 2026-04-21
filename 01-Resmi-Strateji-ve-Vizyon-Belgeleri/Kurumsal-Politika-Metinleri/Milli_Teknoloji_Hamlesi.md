@@ -1,11 +1,11 @@
-# Milli Teknoloji Hamlesi
+﻿# Milli Teknoloji Hamlesi
 
-"Milli Teknoloji Hamlesi", Türkiye'nin teknolojik bağımsızlığını sağlamayı ve küresel rekabet gücünü artırmayı hedefleyen bir toplumsal seferberlik ve kurumsal strateji bütünüdür.
+"Milli Teknoloji Hamlesi", TÃ¼rkiye'nin teknolojik baÄŸÄ±msÄ±zlÄ±ÄŸÄ±nÄ± saÄŸlamayÄ± ve kÃ¼resel rekabet gÃ¼cÃ¼nÃ¼ artÄ±rmayÄ± hedefleyen bir toplumsal seferberlik ve kurumsal strateji bÃ¼tÃ¼nÃ¼dÃ¼r.
 
-## Temel Bileşenler
--   **Kritik Teknolojiler:** Savunma, uzay, enerji ve sağlık gibi alanlarda ithal bağımlılığını bitirecek yerli çözümler.
--   **İnsan Kaynağı:** TEKNOFEST, Deneyap Teknoloji Atölyeleri gibi projelerle "geleceğin teknolojilerini üreten" bir gençliğin yetiştirilmesi.
--   **Ekosistem Yönetimi:** Teknoparklar, TGB'ler ve AR-GE merkezleri arasındaki etkileşimin maksimize edilmesi.
+## Temel BileÅŸenler
+-   **Kritik Teknolojiler:** Savunma, uzay, enerji ve saÄŸlÄ±k gibi alanlarda ithal baÄŸÄ±mlÄ±lÄ±ÄŸÄ±nÄ± bitirecek yerli Ã§Ã¶zÃ¼mler.
+-   **Ä°nsan KaynaÄŸÄ±:** TEKNOFEST, Deneyap Teknoloji AtÃ¶lyeleri gibi projelerle "geleceÄŸin teknolojilerini Ã¼reten" bir genÃ§liÄŸin yetiÅŸtirilmesi.
+-   **Ekosistem YÃ¶netimi:** Teknoparklar, TGB'ler ve AR-GE merkezleri arasÄ±ndaki etkileÅŸimin maksimize edilmesi.
 
 ---
-*Referans: T.C. Sanayi ve Teknoloji Bakanlığı - 2023 Sanayi ve Teknoloji Stratejisi*
+*Referans: T.C. Sanayi ve Teknoloji BakanlÄ±ÄŸÄ± - 2023 Sanayi ve Teknoloji Stratejisi*

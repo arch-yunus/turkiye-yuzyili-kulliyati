@@ -1,31 +1,31 @@
-# Kavramlar Sözlüğü (KAVRAMLAR_SOZLUGU)
+﻿# Kavramlar SÃ¶zlÃ¼ÄŸÃ¼ (KAVRAMLAR_SOZLUGU)
 
-Bu sözlük, Türkiye Yüzyılı vizyonu ve ilgili strateji belgelerinde sıkça kullanılan, stratejik ve felsefi derinliği olan kavramları tanımlar.
+Bu sÃ¶zlÃ¼k, TÃ¼rkiye YÃ¼zyÄ±lÄ± vizyonu ve ilgili strateji belgelerinde sÄ±kÃ§a kullanÄ±lan, stratejik ve felsefi derinliÄŸi olan kavramlarÄ± tanÄ±mlar.
 
 ---
 
 ### **A**
-*   **Aidiyet:** Bireylerin veya toplulukların kendilerini "Türkiye Yüzyılı" ülküsü etrafında, ortak bir kader ve ideal birliğinde hissetme durumu.
+*   **Aidiyet:** Bireylerin veya topluluklarÄ±n kendilerini "TÃ¼rkiye YÃ¼zyÄ±lÄ±" Ã¼lkÃ¼sÃ¼ etrafÄ±nda, ortak bir kader ve ideal birliÄŸinde hissetme durumu.
 
 ### **B**
-*   **Başarının Yüzyılı:** Türkiye'nin her alanda (bilim, spor, sanat, teknoloji) küresel standartların üzerine çıkma ve öncü olma hedefi.
+*   **BaÅŸarÄ±nÄ±n YÃ¼zyÄ±lÄ±:** TÃ¼rkiye'nin her alanda (bilim, spor, sanat, teknoloji) kÃ¼resel standartlarÄ±n Ã¼zerine Ã§Ä±kma ve Ã¶ncÃ¼ olma hedefi.
 
 ### **D**
-*   **Dijitalin Yüzyılı:** Devlet ve toplum hayatının her alanında dijital dönüşümün tamamlanması, veriye dayalı yönetim ve yerli yazılım ekosisteminin inşası.
+*   **Dijitalin YÃ¼zyÄ±lÄ±:** Devlet ve toplum hayatÄ±nÄ±n her alanÄ±nda dijital dÃ¶nÃ¼ÅŸÃ¼mÃ¼n tamamlanmasÄ±, veriye dayalÄ± yÃ¶netim ve yerli yazÄ±lÄ±m ekosisteminin inÅŸasÄ±.
 
-*   **360 Derece Güç:** Türkiye'nin askeri, ekonomik, diplomatik ve kültürel alanlarda, sadece bölgesel değil, küresel ölçekte her yönden etki sahibi ve caydırıcı bir güç haline gelmesini ifade eden vizyoner kavram.
+*   **360 Derece GÃ¼Ã§:** TÃ¼rkiye'nin askeri, ekonomik, diplomatik ve kÃ¼ltÃ¼rel alanlarda, sadece bÃ¶lgesel deÄŸil, kÃ¼resel Ã¶lÃ§ekte her yÃ¶nden etki sahibi ve caydÄ±rÄ±cÄ± bir gÃ¼Ã§ haline gelmesini ifade eden vizyoner kavram.
 
 ### **M**
-*   **Milli Teknoloji Hamlesi:** Teknolojide dışa bağımlılığı azaltmayı, kritik teknolojileri yerli imkanlarla geliştirmeyi ve teknoloji üreten bir toplum olmayı hedefleyen strateji.
+*   **Milli Teknoloji Hamlesi:** Teknolojide dÄ±ÅŸa baÄŸÄ±mlÄ±lÄ±ÄŸÄ± azaltmayÄ±, kritik teknolojileri yerli imkanlarla geliÅŸtirmeyi ve teknoloji Ã¼reten bir toplum olmayÄ± hedefleyen strateji.
 
 ### **S**
-*   **Sürdürülebilirliğin Yüzyılı:** Çevre koruma, yenilenebilir enerji ve kaynak verimliliği ilkelerinin ekonomik kalkınma ile entegre edilmesi.
+*   **SÃ¼rdÃ¼rÃ¼lebilirliÄŸin YÃ¼zyÄ±lÄ±:** Ã‡evre koruma, yenilenebilir enerji ve kaynak verimliliÄŸi ilkelerinin ekonomik kalkÄ±nma ile entegre edilmesi.
 
 ### **T**
-*   **Tam Bağımsızlık:** Siyasi, ekonomik ve teknolojik alanlarda karar alma süreçlerinin hiçbir dış müdahale olmaksızın, tamamen ulusal çıkarlar doğrultusunda yürütülmesi.
-*   **Türkiye Yüzyılı:** Cumhuriyetin ikinci asrını, Türkiye'nin her alanda **360 derece güç** haline gelişi ve medeniyet iddiasının zirveye taşınması olarak tanımlayan üst vizyon.
+*   **Tam BaÄŸÄ±msÄ±zlÄ±k:** Siyasi, ekonomik ve teknolojik alanlarda karar alma sÃ¼reÃ§lerinin hiÃ§bir dÄ±ÅŸ mÃ¼dahale olmaksÄ±zÄ±n, tamamen ulusal Ã§Ä±karlar doÄŸrultusunda yÃ¼rÃ¼tÃ¼lmesi.
+*   **TÃ¼rkiye YÃ¼zyÄ±lÄ±:** Cumhuriyetin ikinci asrÄ±nÄ±, TÃ¼rkiye'nin her alanda **360 derece gÃ¼Ã§** haline geliÅŸi ve medeniyet iddiasÄ±nÄ±n zirveye taÅŸÄ±nmasÄ± olarak tanÄ±mlayan Ã¼st vizyon.
 
 ---
 
 > [!TIP]
-> Yeni kavram önerileri için lütfen `CONTRIBUTING.md` rehberindeki adımları takip ederek bir PR açın.
+> Yeni kavram Ã¶nerileri iÃ§in lÃ¼tfen `CONTRIBUTING.md` rehberindeki adÄ±mlarÄ± takip ederek bir PR aÃ§Ä±n.

@@ -1,37 +1,37 @@
-# Literatür ve Kaynakça (LITERATUR_VE_KAYNAKCA)
+﻿# LiteratÃ¼r ve KaynakÃ§a (LITERATUR_VE_KAYNAKCA)
 
-Bu belge, "Türkiye Yüzyılı" vizyonu kapsamındaki tüm akademik, resmi ve sivil toplum kaynaklarının sistematik bir listesini tutar. Eklemeler yapılırken APA 7 (American Psychological Association) standartlarına uyulması rica olunur.
+Bu belge, "TÃ¼rkiye YÃ¼zyÄ±lÄ±" vizyonu kapsamÄ±ndaki tÃ¼m akademik, resmi ve sivil toplum kaynaklarÄ±nÄ±n sistematik bir listesini tutar. Eklemeler yapÄ±lÄ±rken APA 7 (American Psychological Association) standartlarÄ±na uyulmasÄ± rica olunur.
 
 ---
 
 ## 1. Resmi Belgeler ve Strateji Metinleri
 
-*   **T.C. Cumhurbaşkanlığı.** (2022). *Türkiye Yüzyılı Vizyon Belgesi*. Ankara.
-*   **Strateji ve Bütçe Başkanlığı.** (2023). *On İkinci Kalkınma Planı (2024-2028)*. T.C. Resmî Gazete.
-*   **İletişim Başkanlığı.** (2022). *Türkiye Yüzyılı: Geleceğin İnşası*. Ankara: İletişim Yayınları.
+*   **T.C. CumhurbaÅŸkanlÄ±ÄŸÄ±.** (2022). *TÃ¼rkiye YÃ¼zyÄ±lÄ± Vizyon Belgesi*. Ankara.
+*   **Strateji ve BÃ¼tÃ§e BaÅŸkanlÄ±ÄŸÄ±.** (2023). *On Ä°kinci KalkÄ±nma PlanÄ± (2024-2028)*. T.C. ResmÃ® Gazete.
+*   **Ä°letiÅŸim BaÅŸkanlÄ±ÄŸÄ±.** (2022). *TÃ¼rkiye YÃ¼zyÄ±lÄ±: GeleceÄŸin Ä°nÅŸasÄ±*. Ankara: Ä°letiÅŸim YayÄ±nlarÄ±.
 
-## 2. Akademik Literatür (Siyaset, Sosyoloji ve Ekonomi)
+## 2. Akademik LiteratÃ¼r (Siyaset, Sosyoloji ve Ekonomi)
 
-*   **Altun, F.** (2022). *Türkiye Yüzyılı'nın Kapısında: Stratejik İletişim ve Kamu Diplomasisi*. Ankara: Nobel Yayınları.
-*   **Keyman, E. F.** (2023). *Cumhuriyetin İkinci Yüzyılında Türkiye: Riskler ve Fırsatlar*. İstanbul Bilgi Üniversitesi Yayınları.
-*   **Kutlay, M.** (2022). *Ekonomi-Politik Bir Perspektiften Türkiye Yüzyılı: Küresel Dönüşüm ve Yerel Kapasite*.
+*   **Altun, F.** (2022). *TÃ¼rkiye YÃ¼zyÄ±lÄ±'nÄ±n KapÄ±sÄ±nda: Stratejik Ä°letiÅŸim ve Kamu Diplomasisi*. Ankara: Nobel YayÄ±nlarÄ±.
+*   **Keyman, E. F.** (2023). *Cumhuriyetin Ä°kinci YÃ¼zyÄ±lÄ±nda TÃ¼rkiye: Riskler ve FÄ±rsatlar*. Ä°stanbul Bilgi Ãœniversitesi YayÄ±nlarÄ±.
+*   **Kutlay, M.** (2022). *Ekonomi-Politik Bir Perspektiften TÃ¼rkiye YÃ¼zyÄ±lÄ±: KÃ¼resel DÃ¶nÃ¼ÅŸÃ¼m ve Yerel Kapasite*.
 
-## 3. Dijital ve Teknoloji Alanındaki Kaynaklar
+## 3. Dijital ve Teknoloji AlanÄ±ndaki Kaynaklar
 
-*   **T.C. Cumhurbaşkanlığı Dijital Dönüşüm Ofisi.** (2021). *Ulusal Yapay Zeka Stratejisi*. [Erişim Linki](https://cbddo.gov.tr/uazs)
-*   **Varank, M.** (2022). *Milli Teknoloji Hamlesi ve Sanayi Dönüşümü*. Ankara.
+*   **T.C. CumhurbaÅŸkanlÄ±ÄŸÄ± Dijital DÃ¶nÃ¼ÅŸÃ¼m Ofisi.** (2021). *Ulusal Yapay Zeka Stratejisi*. [EriÅŸim Linki](https://cbddo.gov.tr/uazs)
+*   **Varank, M.** (2022). *Milli Teknoloji Hamlesi ve Sanayi DÃ¶nÃ¼ÅŸÃ¼mÃ¼*. Ankara.
 
-## 4. Uluslararası Analizler ve Raporlar
+## 4. UluslararasÄ± Analizler ve Raporlar
 
 *   **OECD.** (2023). *Turkey's Economic Projections and Digital Transformation Readiness Report*.
 *   **World Bank.** (2023). *Turkey - Country Economic Memorandum: Unlocking High-Quality Growth*.
 
 ---
 
-## Kaynak Ekleme Kuralları
-1.  Kaynağın başlığını, yazarını ve yayın tarihini belirtin.
-2.  Mümkünse kaynağa doğrudan erişim sağlayan bir URL (link) ekleyin.
-3.  Kaynağın külliyatın hangi bölümüyle (vizyon sütunu vb.) ilgili olduğunu not düşebilirsiniz.
+## Kaynak Ekleme KurallarÄ±
+1.  KaynaÄŸÄ±n baÅŸlÄ±ÄŸÄ±nÄ±, yazarÄ±nÄ± ve yayÄ±n tarihini belirtin.
+2.  MÃ¼mkÃ¼nse kaynaÄŸa doÄŸrudan eriÅŸim saÄŸlayan bir URL (link) ekleyin.
+3.  KaynaÄŸÄ±n kÃ¼lliyatÄ±n hangi bÃ¶lÃ¼mÃ¼yle (vizyon sÃ¼tunu vb.) ilgili olduÄŸunu not dÃ¼ÅŸebilirsiniz.
 
 > [!TIP]
-> Yeni bir kaynak eklediğinizde, ilgili bölümdeki `README.md` dosyasına da bu kaynağa dair kısa bir atıf yapmanız araştırmacıların işini kolaylaştıracaktır.
+> Yeni bir kaynak eklediÄŸinizde, ilgili bÃ¶lÃ¼mdeki `README.md` dosyasÄ±na da bu kaynaÄŸa dair kÄ±sa bir atÄ±f yapmanÄ±z araÅŸtÄ±rmacÄ±larÄ±n iÅŸini kolaylaÅŸtÄ±racaktÄ±r.

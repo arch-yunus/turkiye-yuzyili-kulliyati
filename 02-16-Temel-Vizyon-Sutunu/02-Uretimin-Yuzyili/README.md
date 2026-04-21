@@ -1,26 +1,26 @@
-# Uretimin Yuzyili
+﻿# Uretimin Yuzyili
 
-Bu bölüm, Türkiye Yüzyılı vizyonunun temel sütunlarından biri olan "Uretimin Yuzyili" kavramını incelemektedir.
+Bu bÃ¶lÃ¼m, TÃ¼rkiye YÃ¼zyÄ±lÄ± vizyonunun temel sÃ¼tunlarÄ±ndan biri olan "Uretimin Yuzyili" kavramÄ±nÄ± incelemektedir.
 
-## 1. Tanım
-**Üretimin Yüzyılı Nedir?**
-Türkiye'nin sadece bir montaj üssü değil, yüksek teknolojili ve yüksek katma değerli ürünlerin tasarım ve üretim merkezi olmasıdır.
+## 1. TanÄ±m
+**Ãœretimin YÃ¼zyÄ±lÄ± Nedir?**
+TÃ¼rkiye'nin sadece bir montaj Ã¼ssÃ¼ deÄŸil, yÃ¼ksek teknolojili ve yÃ¼ksek katma deÄŸerli Ã¼rÃ¼nlerin tasarÄ±m ve Ã¼retim merkezi olmasÄ±dÄ±r.
 
-**Temel Odak:** Sanayi 4.0 dönüşümü, KOBİ'lerin dijitalleşmesi ve dışa bağımlılığı azaltan yerli hammadde/ara malı üretimidir.
+**Temel Odak:** Sanayi 4.0 dÃ¶nÃ¼ÅŸÃ¼mÃ¼, KOBÄ°'lerin dijitalleÅŸmesi ve dÄ±ÅŸa baÄŸÄ±mlÄ±lÄ±ÄŸÄ± azaltan yerli hammadde/ara malÄ± Ã¼retimidir.
 
-## 2. Eylem Planı
+## 2. Eylem PlanÄ±
 **Projeler ve Hedefler**
-1.  **TOGG ve Mobilite Ekosistemi:** Yerli otomobil ile başlayan akıllı cihaz ve batarya teknolojileri üretimi.
-2.  **Milli Teknoloji Hamlesi:** İthal edilen teknolojik ürünlerin yerlileştirilmesi (İTEP projeleri).
-3.  **Model Fabrikalar:** İşletmelerde verimlilik artışı sağlayan yalın üretim ve dijital dönüşüm merkezleri.
-4.  **Yeşil Sanayi:** Avrupa Yeşil Mutabakatı'na uyumlu, düşük karbonlu üretim modellerine geçiş.
+1.  **TOGG ve Mobilite Ekosistemi:** Yerli otomobil ile baÅŸlayan akÄ±llÄ± cihaz ve batarya teknolojileri Ã¼retimi.
+2.  **Milli Teknoloji Hamlesi:** Ä°thal edilen teknolojik Ã¼rÃ¼nlerin yerlileÅŸtirilmesi (Ä°TEP projeleri).
+3.  **Model Fabrikalar:** Ä°ÅŸletmelerde verimlilik artÄ±ÅŸÄ± saÄŸlayan yalÄ±n Ã¼retim ve dijital dÃ¶nÃ¼ÅŸÃ¼m merkezleri.
+4.  **YeÅŸil Sanayi:** Avrupa YeÅŸil MutabakatÄ±'na uyumlu, dÃ¼ÅŸÃ¼k karbonlu Ã¼retim modellerine geÃ§iÅŸ.
 
-## 3. Literatür
+## 3. LiteratÃ¼r
 **Okumalar ve Analizler**
-*   **Sanayi ve Teknoloji Bakanlığı.** (2022). *2023 Sanayi ve Teknoloji Stratejisi*.
-*   **Akademik Çalışmalar:** Küresel değer zincirlerinde Türkiye'nin payının artırılması üzerine analizler.
+*   **Sanayi ve Teknoloji BakanlÄ±ÄŸÄ±.** (2022). *2023 Sanayi ve Teknoloji Stratejisi*.
+*   **Akademik Ã‡alÄ±ÅŸmalar:** KÃ¼resel deÄŸer zincirlerinde TÃ¼rkiye'nin payÄ±nÄ±n artÄ±rÄ±lmasÄ± Ã¼zerine analizler.
 
 ---
 
 > [!TIP]
-> Bu bölüme katkı sağlamak için lütfen [Katkı Rehberi](../../CONTRIBUTING.md) dosyasını inceleyin.
+> Bu bÃ¶lÃ¼me katkÄ± saÄŸlamak iÃ§in lÃ¼tfen [KatkÄ± Rehberi](../../CONTRIBUTING.md) dosyasÄ±nÄ± inceleyin.

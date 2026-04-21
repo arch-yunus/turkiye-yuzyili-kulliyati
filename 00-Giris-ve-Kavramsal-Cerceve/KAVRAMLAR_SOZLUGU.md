@@ -13,8 +13,7 @@ Bu sözlük, Türkiye Yüzyılı vizyonu ve ilgili strateji belgelerinde sıkça
 ### **D**
 *   **Dijitalin Yüzyılı:** Devlet ve toplum hayatının her alanında dijital dönüşümün tamamlanması, veriye dayalı yönetim ve yerli yazılım ekosisteminin inşası.
 
-### **G**
-*   **Gücün Yüzyılı:** Savunma sanayi başta olmak üzere, Türkiye'nin askeri, ekonomik ve diplomatik kapasitesinin caydırıcılık ve çözüm odaklılık ekseninde artırılması.
+*   **360 Derece Güç:** Türkiye'nin askeri, ekonomik, diplomatik ve kültürel alanlarda, sadece bölgesel değil, küresel ölçekte her yönden etki sahibi ve caydırıcı bir güç haline gelmesini ifade eden vizyoner kavram.
 
 ### **M**
 *   **Milli Teknoloji Hamlesi:** Teknolojide dışa bağımlılığı azaltmayı, kritik teknolojileri yerli imkanlarla geliştirmeyi ve teknoloji üreten bir toplum olmayı hedefleyen strateji.
@@ -24,7 +23,7 @@ Bu sözlük, Türkiye Yüzyılı vizyonu ve ilgili strateji belgelerinde sıkça
 
 ### **T**
 *   **Tam Bağımsızlık:** Siyasi, ekonomik ve teknolojik alanlarda karar alma süreçlerinin hiçbir dış müdahale olmaksızın, tamamen ulusal çıkarlar doğrultusunda yürütülmesi.
-*   **Türkiye Yüzyılı:** Cumhuriyetin ikinci asrını, Türkiye'nin her alanda küresel bir güç haline gelişi ve medeniyet iddiasının zirveye taşınması olarak tanımlayan üst vizyon.
+*   **Türkiye Yüzyılı:** Cumhuriyetin ikinci asrını, Türkiye'nin her alanda **360 derece güç** haline gelişi ve medeniyet iddiasının zirveye taşınması olarak tanımlayan üst vizyon.
 
 ---
 

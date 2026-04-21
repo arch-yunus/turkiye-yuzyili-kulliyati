@@ -7,7 +7,7 @@ Beyanname, Türkiye'nin son yirmi yıldaki kazanımlarını temel alarak, gelece
 
 ### Temel Hedefler
 -   **Kapsayıcılık:** Vizyonun sadece belli bir kesimin değil, 85 milyonun ortak ülküsü olması.
--   **Küresel Güç:** Türkiye'nin uluslararası sistemde "kurucu" ve "düzenleyici" bir aktör haline gelmesi.
+-   **360 derece güç:** Türkiye'nin uluslararası sistemde "kurucu" ve "düzenleyici" bir aktör haline gelmesi. Scan completion status for the final report
 -   **Dijital ve Teknolojik Tam Bağımsızlık:** Milli Teknoloji Hamlesi'nin tüm alanlara yayılması.
 
 ---
